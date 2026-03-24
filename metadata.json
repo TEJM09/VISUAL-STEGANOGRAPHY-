@@ -1,0 +1,5 @@
+{
+  "name": "StegoCore v3.1: Advanced Payload Extraction Engine",
+  "description": "An interactive simulator demonstrating steganography extraction, lexical analysis, syntax parsing, and code execution with animations.",
+  "requestFramePermissions": []
+}
